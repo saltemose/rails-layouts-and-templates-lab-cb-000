@@ -1,6 +1,6 @@
 class StaticController < ApplicationController
   def home
-    render :layout => "admin"
+    render :layout => "application"
   end
 
 end
